@@ -30,5 +30,5 @@ To run this project locally, you need Python 3.7 or higher and `pip`. Follow the
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/your-username/your-repo-name.git](https://github.com/CarterHe479/DenseNet121_for_TB_Test.git
+   cd DenseNet121_for_TB_Test
